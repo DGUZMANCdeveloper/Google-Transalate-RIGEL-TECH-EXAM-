@@ -1,0 +1,16 @@
+<config>
+  <source>español</source>
+  <destination>Inglés</destination>
+  <Phrase>
+    <input>Hola, Rigel</input>
+    <output>Resultados de traducción</output>
+    <input>este es</input>
+    <output>Resultados de traducción</output>
+    <input>mi primer</input>
+    <output>Resultados de traducción</output>
+    <input>robot</input>
+    <output>Resultados de traducción</output>
+  </Phrase>
+  <maxretry>3</maxretry>
+  <timeout>30</timeout>
+</config>

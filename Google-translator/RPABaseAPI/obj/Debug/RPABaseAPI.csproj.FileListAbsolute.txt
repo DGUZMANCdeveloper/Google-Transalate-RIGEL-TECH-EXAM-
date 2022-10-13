@@ -1,0 +1,22 @@
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\obj\Debug\RPABaseAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\obj\Debug\Interop.Cartes.dll
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\obj\Debug\Interop.CE_Data.dll
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\obj\Debug\RPABaseAPI.csproj.ResolveComReference.cache
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\obj\Debug\RPABaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\bin\Debug\Cartes\RPABaseAPI.cartes.rpa
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\bin\Debug\Cartes\VisualStudio.rpa
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\bin\Debug\RPABaseAPI.dll
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\bin\Debug\RPABaseAPI.pdb
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\obj\Debug\RPABaseAPI.dll
+C:\Users\Administrator\Documents\B2BPlastireyProcess\RPABaseAPI\obj\Debug\RPABaseAPI.pdb
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\obj\Debug\Interop.Cartes.dll
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\obj\Debug\Interop.CE_Data.dll
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\obj\Debug\RPABaseAPI.csproj.ResolveComReference.cache
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\obj\Debug\RPABaseAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\obj\Debug\RPABaseAPI.dll
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\obj\Debug\RPABaseAPI.pdb
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\bin\Debug\Cartes\RPABaseAPI.cartes.rpa
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\bin\Debug\Cartes\VisualStudio.rpa
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\bin\Debug\RPABaseAPI.dll
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\bin\Debug\RPABaseAPI.pdb
+C:\Users\Nylec\OneDrive\Escritorio\DEVELOPER RPA COURSE\ROBOT CARTES\Google-translator\Google-translator\RPABaseAPI\obj\Debug\RPABaseAPI.csprojAssemblyReference.cache
